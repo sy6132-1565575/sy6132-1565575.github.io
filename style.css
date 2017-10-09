@@ -1,7 +1,17 @@
 img {
 	border-radius: 10px;
+    	float: right;
+    	margin: 0 0 10px 10px;
 } 
 
 body {
-	background-color: #000000;
+	background-color: #33F6FF;
+}
+
+#rcorners1 {
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
 }
